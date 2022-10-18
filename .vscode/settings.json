@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "cooldown",
+        "Dedicated",
+        "despawn",
+        "despawned",
+        "distance",
+        "from",
+        "grayscale",
+        "illager",
+        "knockback",
+        "minecart",
+        "minecraft",
+        "mojang",
+        "playername",
+        "stackable",
+        "zoglin"
+    ],
+    "markdownlint.config": {
+        "MD028": false,
+        "MD025": {
+            "front_matter_title": ""
+        }
+    }
+}
